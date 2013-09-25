@@ -38,6 +38,9 @@ _Some popular programming languages and their general styles:_
     * [The Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
     * [Elements of Ruby Style](http://pathfindersoftware.com/2008/10/elements-of-ruby-style/)
     
+* Scala
+    * [Official Documentation](http://docs.scala-lang.org/style/naming-conventions.html)
+    
 * Visual Basic .NET
     * [Microsoft Consulting Services Naming Conventions for VB.NET](http://support.microsoft.com/kb/110264)
     * [MSDN Visual Basic Conventions](http://msdn.microsoft.com/en-us/library/0b283bse.aspx)
@@ -47,4 +50,3 @@ _References_
 
 * [Stack Overflow - Is coding standard important?](http://stackoverflow.com/questions/1962649/is-coding-standard-very-important-for-every-program-a-developer-writes)
 * [5 Reasons code standards are essential](http://www.maltblue.com/software-engineering-2/5-reaons-coding-standards-are-essential)
-* [Scala] (http://docs.scala-lang.org/style/naming-conventions.html)
