@@ -16,7 +16,7 @@ This also applies to lists and iterators. It's easy to setup a loop like so:
 But it's better to write it like this:
 
     //javascript code
-    for (var myListIterator=0; i<myList.length; i++){
+    for (var myListIterator=0; myListIterator<myList.length; myListIterator++){
         //Actions to take here
     }
 
