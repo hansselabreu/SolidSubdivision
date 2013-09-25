@@ -9,7 +9,7 @@ It doesn't matter how trivial the change you're pushing to your source control s
 
 
 Structure your commit message like this:
-
+    
 <pre>
 Summarize clearly in one line what the commit is about
 
