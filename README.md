@@ -15,6 +15,7 @@ Some things to consider when adding new content:
 * Every entry must have at least a paragraph explaining the best practice. The content needs to be a MarkDown file. This simplifies hosting, and the MD syntax allows for code examples with ease
 * For now, entries should be language agnostic. If you need to write code, do it in the language you feel most comfortable with, but try to add an example that can be applicable to other technologies as well. 
 * If the entry has references to known authors or sources, please include them as a link (in the case of a book, please add reference(s) to where it can be bought)
+* Don't aim to write a full-fledged compendium on one entry. It the topic is lenghty or complicated, try to synthetize and explain it in simple words. If the reader wants to learn more, that's what the references are for.
 * We still don't know how to handle multiple language references on each entry (suggestions welcome)
 
 Don't know where to start? check out the wiki for [some entry ideas!](https://github.com/amhed/SolidSubdivision/wiki/Entry-Ideas)
