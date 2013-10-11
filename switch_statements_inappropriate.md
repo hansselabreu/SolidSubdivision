@@ -41,5 +41,5 @@ The example below shows how it may be used:
 
 
 Disclaimer: like everything in Software Engineering, this is not a [Silver Bullet](http://www.cs.nott.ac.uk/~cah/G51ISS/Documents/NoSilverBullet.html).
-A switch statement might not an anti pattern in every situation. And if it is, depending on the exact situation, a better solution might be out there.
+A switch statement might not be an anti pattern in every situation. And if it is, depending on the exact situation, a better solution might be out there.
 Be critical.
