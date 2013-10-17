@@ -10,8 +10,11 @@ Whether you decide to work alone or as a part of a team, adherence to code style
 _Some popular programming languages and their general styles:_
 
 * C
+    * [Standards and Style for Coding in ANSI C](http://www.jetcafe.org/jim/c-style.html)
 
 * C++
+    * [Google C++ Style Guide](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+    * [Functional-Style Programming in C++](http://msdn.microsoft.com/en-us/magazine/jj553512.aspx)
 
 * C#
     * [MSDN C# Coding Conventions](http://msdn.microsoft.com/en-us/library/vstudio/ff926074.aspx)
