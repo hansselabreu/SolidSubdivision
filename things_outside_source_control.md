@@ -17,6 +17,8 @@ People starting to use source control will usually include everything on the pro
 
     Many IDEs add environment configuration files on the project's root folder. If you check-in these files you will have constant conflicts with your teammates who may have different settings.
 
+If you use SVN there's an ignore list where you can add individual files or directories, you could also use expressions to ignore files with an specific extension. 
+For a .NET application your list might look like this: *.o *.lo *.la #*# .*.rej *.rej .*~ *~ .#* .DS_Store thumbs.db Thumbs.db *.bak *.class *.exe *.dll *.mine *.obj *.ncb *.lib *.log *.idb *.pdb *.ilk *.msi* .res *.pch *.suo *.exp *.*~ *.~* ~*.* cvs CVS .CVS .cvs release Release debug Debug ignore Ignore bin Bin obj Obj Generated Logs *.csproj.user *.user
 
 If you use git there's [a file called .gitignore](http://git-scm.com/docs/gitignore) that helps you define which files and folders shouldn't be included under source control. 
 
