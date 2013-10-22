@@ -34,6 +34,6 @@ someInput.val('');
 
 someDiv.show();
 ```
-That simple change could not only improve your entire application performance, it also improves it's readability and the way the app is maintain.
+That simple change could not only improve your entire application performance, it also improves it's readability and the way the app is maintained.
 
 This principle it's well known because it appear on the book [The Pragmatic Programmer](http://www.amazon.com/gp/product/020161622X/ref=as_li_ss_tl/?ie=UTF8&linkCode=as2&camp=1789&creative=390957&creativeASIN=020161622X) by Andy Hunt and Dave Thomas
