@@ -28,6 +28,7 @@ Why?
 
 _References_
 
+* [Use descriptive variable and type names](http://www.bestcodingpractices.com/use_descriptive_variable_and_type_names-15503.html)
 * Reading code is hard - Eric Lippert http://blogs.msdn.com/b/ericlippert/archive/2004/06/14/155316.aspx
 * Programming Naming Conventions - Wikipedia http://en.wikipedia.org/wiki/Naming_convention_(programming)
 * Good Variable Names - http://c2.com/cgi/wiki?GoodVariableNames
