@@ -1,25 +1,27 @@
-#When using boolean variables, correlate it's name with [positive logic].
+#When using boolean variables, correlate it's name with [positive logic]
 
 While working on a team project (or some really old code) you may encounter something like this:
- ```//javascript code
+
+ ```javascript
+//javascript code
 var isVisible = true; //boolean variable
 
 if (!isVisible) {
-//some code here
-$('#someDiv').show();
+	//some code here
+	$('#someDiv').show();
 }
  ```
 
 Here, you will be showing #somediv as long as the variable **isVisible** is false. 
 It will be easier and more convenient to your teammates to use [positive logic] instead:
 
-```//javascript code
+```javascript
+//javascript code
 var isVisible = true; //boolean variable
 
 if (isVisible) {
-//some code 
-$('#someDiv').show();
-
+	//some code 
+	$('#someDiv').show();
 }
  ```
 
