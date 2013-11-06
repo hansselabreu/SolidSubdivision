@@ -34,4 +34,4 @@ That way, you maintain a semantic relationship with your code.
 ####Stackoverflow related question
 * [http://stackoverflow.com/questions/5372898/why-should-i-use-positive-logic-in-an-if-block](http://stackoverflow.com/questions/5372898/why-should-i-use-positive-logic-in-an-if-block)
 
-[positive logic] http://en.wiktionary.org/wiki/positive_logic
+[positive logic]: http://en.wiktionary.org/wiki/positive_logic
