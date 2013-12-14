@@ -3,6 +3,8 @@ If the programming language let's do you something, it doesn't mean you should
 
 Correct code is not always good code.
 
+[PENDING]
+
 Take this c++ code as an example. It's completely valid code, will compile, and some times run, without problems:
 
     int array[10]; 
